@@ -12,4 +12,4 @@ Capstone project for IBM Data Science program.
 
 
 
-Also you can reach the final presentation from [here](./ds-capstone-OzkanCeylan.pdf)
+Also you can reach the final presentation from [here.](./ds-capstone-OzkanCeylan.pdf)
